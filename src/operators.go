@@ -17,7 +17,7 @@ func main() {
 
 	// division
 	fmt.Println(x / y) // .4
-	
+
 	// module
 	fmt.Println(x % y) // 0
 
@@ -28,6 +28,5 @@ func main() {
 	// decremental
 	y--
 	fmt.Println(y) // 24
-	
 
 }
