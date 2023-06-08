@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"main/src"
+)
 
 func main() {
 	// Constant declaration
@@ -28,4 +31,6 @@ func main() {
 	fmt.Println(b)
 	fmt.Println(c)
 	fmt.Println(d)
+
+	src.Structs()
 }

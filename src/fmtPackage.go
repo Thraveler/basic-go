@@ -1,8 +1,8 @@
-package main
+package src
 
 import "fmt"
 
-func main() {
+func FmtPackage() {
 	hello := "Hello"
 	world := "World"
 	name := "Peter"

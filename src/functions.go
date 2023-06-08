@@ -1,9 +1,9 @@
-package main
+package src
 
 import "fmt"
 
 // Simple function
-func helloWorld () {
+func helloWorld() {
 	fmt.Println("Hello World!")
 }
 
@@ -22,7 +22,7 @@ func multiplyByTwo(x int) (int, int) {
 	return x, x * 2
 }
 
-func main() {
+func Functions() {
 	helloWorld()
 	greetingTo("Jane", "Doe")
 

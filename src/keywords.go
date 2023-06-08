@@ -1,8 +1,8 @@
-package main
+package src
 
 import "fmt"
 
-func main() {
+func Keywords() {
 	defer fmt.Println("This will be executed at the end!")
 
 	counter := 0

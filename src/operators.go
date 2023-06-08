@@ -1,8 +1,8 @@
-package main
+package src
 
 import "fmt"
 
-func main() {
+func Operators() {
 	x := 10
 	y := 25
 
