@@ -33,4 +33,10 @@ func main() {
 	fmt.Println(d)
 
 	src.Structs()
+
+	src.TestPointer()
+
+	src.TestInterfaces()
+
+	src.TestGoRutine()
 }
